@@ -1,2 +1,4 @@
-# olamundo
-Primeiro repósitorio criado com o curso de Git e GitHub do CursoemVídeo
+# Olá, Mundo!
+Primeiro repositório criado com o curso de Git e GitHub do CursoemVídeo
+
+Repositório criado durante uma live de aula ao vivo
